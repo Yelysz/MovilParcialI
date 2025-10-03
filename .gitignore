@@ -1,0 +1,32 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local
+*.log
+*.env
+.env.local
+
+# Carpetas de dependencias
+node_modules/
+venv/
+__pycache__/
+
+# Archivos de compilación / build
+build/
+dist/
+*.class
+*.exe
+*.dll
+*.o
+*.so
+
+# IDEs y editores
+.vscode/
+.idea/
+*.iml
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Anyelys Torres</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        "Hello, I'm Anyelys. \n\n
+        I am interested in Android development and I am practicing layouts, styles, and accessibility.
+        In my free time I learn Kotlin, build small projects, and enjoy documenting what I learn.
+        This text is long enough to allow scrolling.\n\n
+
+        Skills: Kotlin, Android Studio, Git, XML layouts, Firebase, REST APIs, MVVM Architecture.\n
+        Goal: improve best practices and publish my first app on the Play Store.\n\n
+
+        Personal experience: I have been exploring how ViewGroups such as LinearLayout, ConstraintLayout,
+        and ScrollView work, and how they combine to create dynamic and user-friendly interfaces.
+        I am also learning about Material Design to enhance the usability of my applications.\n\n
+
+        Hobbies: I enjoy reading about new technologies, practicing programming logic, and solving online challenges.
+        I also like collaborating with other students and sharing code on GitHub repositories.\n\n
+
+        Future: I plan to expand my knowledge into Jetpack Compose, local databases with Room,
+        and cloud service integration. My medium-term goal is to work on a project that positively impacts users.\n\n
+
+        Note: this text is long enough so that you can scroll within the ScrollView
+        and see how navigation works in Android. It is a good practice example to distinguish between simple views and view containers."
+    </string>
+
+    <string name="nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
